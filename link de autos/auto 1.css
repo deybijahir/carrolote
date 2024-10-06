@@ -1,0 +1,87 @@
+div {
+    padding: 10px;
+
+}
+ 
+.move{
+   
+    width: 200px;
+    height: 5%;
+float: right;
+position: relative;
+left: -400px;
+}
+
+div .titular,span{
+background: #00b853;
+display: inline-block;
+padding: 5px 5px;
+}
+
+div .titular,span:hover{
+    background: #16ff7f;
+    display: inline-block;
+    }
+
+
+
+.lista{
+    background: rgb(161, 186, 202);
+    padding: 5px 20px ; 
+    margin: 0px;
+font-size: 100%;
+display: inline-block;
+text-decoration: none;
+    
+}
+
+.png{
+    background: rgb(116, 161, 245);
+    padding: 20px 10px;
+    margin: 0px;
+
+}
+
+.titular{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.regresar{
+    background: rgb(150, 121, 255);
+    margin: 10px 10px;
+    padding: 10px;
+    font-size: 20px;
+    text-decoration: none;
+ display: inline-block;
+ box-shadow: 0px  5px 0px #003449;
+  
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   border-radius: 5%;
+}
+
+.regresar:hover{
+    text-decoration: rgb(255, 56, 56);
+    background: rgb(120, 235, 255);
+    box-shadow:0px 2px 0px #1D64a6;
+}
+
+.regresar:active{
+    background: rgb(114, 255, 173);
+    box-shadow: none;
+}
+
+a.whasap{
+    width: 200px;
+    height: 5%;
+float: right;
+position: relative;
+left: -250px;
+top: -250px;
+}
+
+div.png{
+    display: inline-block;
+    padding: 15px 10px;
+    margin: 10px;
+}
